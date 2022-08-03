@@ -6,3 +6,5 @@ function getMaxNumber(arr) {
 
 console.log(getMaxNumber.call(null, array))
 console.log(getMaxNumber.apply(null, [array]))
+
+
